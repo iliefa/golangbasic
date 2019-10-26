@@ -13,4 +13,5 @@ func main() {
 
 	// & gets the address of variable
 	//type of pointer is *int
+	//zero value of a pointer is nil
 }
